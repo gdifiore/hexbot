@@ -1,3 +1,8 @@
+# My Hexbot Script
+Use `hexbot.py` to create a 1x5 png of 5 random colors from the Hexbot API
+
+---
+
 ![Hexbot](https://user-images.githubusercontent.com/212941/59163439-23c05900-8ab6-11e9-8764-977334c7bba8.png)
 
 # 👋 Meet Hexbot
